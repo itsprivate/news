@@ -70,6 +70,24 @@ const siteMetadata = {
         // },
       ],
     },
+    {
+      locale: "ja",
+      title: "Googleグローバルニュースのヘッドライン",
+      shortTitle: "ホットニュース",
+      description: "人気のGoogleグローバルニュースのヘッドライン記事を日本語で閲覧",
+      keywords: ["buzzing", "ホットニュース",],
+      menuLinks: [
+        // {
+        // name: "每週精選",
+        // url: "/zh-Hant/issues",
+        // },
+        // {
+        //   name: "RSS",
+        //   url: "/zh-Hant/rss.xml",
+        //   prefetch: false,
+        // },
+      ],
+    }
   ],
 };
 
