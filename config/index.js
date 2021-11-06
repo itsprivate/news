@@ -2,7 +2,7 @@ const siteMetadata = {
   siteUrl: "https://news.buzzing.cc",
   author: `Buzzing.cc`,
   locale: "zh",
-  title: "谷歌全球新闻头条",
+  title: "国外新闻头条 - 全球新闻头条 - 西方新闻头条",
   shortTitle: "全球头条",
   description: "用中文浏览谷歌全球新闻(西方媒体)头条",
   keywords: ["buzzing", "西方媒体", "国外新闻", "世界新闻", "突发新闻"],
